@@ -1,0 +1,1 @@
+# Red-neuronal-simple-en-Python-y-Tensorflow-Google-Colab-
